@@ -1,10 +1,7 @@
 # 💡 PhrasesDev – Inspírate Programando
 
-PhrasesDev es una aplicación web desarrollada con **React**, **TypeScript** y **Vite**, que muestra frases motivacionales y chistes sobre programación. Diseñada para inspirar y sacar una sonrisa a quienes vivimos entre líneas de código.
+PhrasesDev es una aplicación web desarrollada con **React**, **TypeScript** y **Vite**, que muestra frases  y chistes sobre programación. Diseñada para inspirar y sacar una sonrisa a quienes vivimos entre líneas de código.
 
-<div align="center">
-  <img src="./public/preview.png" alt="Captura de PhrasesDev" width="500"/>
-</div>
 
 ## 🚀 Funcionalidades
 
